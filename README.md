@@ -1,7 +1,7 @@
 # bikesharing
 Tableau
 
-### Overview of the statistical analysis:
+### Overview of the statistical analysis
 
 To creat Visualizations for a bike trip analysis and to convince investors that a bike-sharing program in Des Moines is a solid business proposal. 
 
@@ -53,6 +53,9 @@ A symbol map is a map with symbols that correlate to the numeric value of the ma
 
 ![7](https://github.com/Poonsri14/bikesharing/blob/main/images/TopStartingLocation.png)
 
+NYCBikes-Sharing Story
+
+[link to dashboard](https://public.tableau.com/app/profile/poonsri.singivipulya/viz/CityBikes_Challenge/NYCBikes-Sharing?publish=yes)
 
 ### Summary
 Base on the visualazition analysises above, males are the most bike users and most likely to use it on weekdays during rush hours which are staritng from7am-9am and from 4pm-7pm aroud the tourist spots. In addtion, the most bikes that require the most maintenance, will be the one used the most frequently and the best time to schedule for mainenance are 9pm-5am. For more analysis before making decision, I would suggest to find the Average Trip Duration by Age, or gather more data to do the analysis each month.
